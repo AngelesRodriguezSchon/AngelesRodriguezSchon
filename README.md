@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a graphic design student and a full stack web developer in the near future :computer:
-People describe me as a very proactive person, always willing to learn and do. I like adventures and getting out of my comfort zone. I am tidy, organized, creative and good at working in teams as well as individually. 
-*I hope to transmit and inspire with my work :sparkling_heart:
+I am a graphic design student and a full stack web developer in the near future :computer:\
+People describe me as a very proactive person, always willing to learn and do. I like adventures and getting out of my comfort zone. I am tidy, organized, creative and good at working in teams as well as individually.\
+*I hope to transmit and inspire with my work* :sparkling_heart:\
 
-📫 How to reach me: angeles.rodriguezschon@gmail.com
+📫 How to reach me: angeles.rodriguezschon@gmail.com\
 
 
 [AngelesRodriguezSchon-CV.pdf]
